@@ -1,0 +1,22 @@
+{
+    "posts":[
+        {
+            "id":"next.js13-udemy",
+            "title":"学友",
+            "content":"ダミーダミーダミーダミーダミーダミーダミーダミーダミーダミー",
+            "createdAt":"2024/01/02"
+        },
+        {
+            "id":"json",
+            "title":"json",
+            "content":"hogehogehoeghoeghoeghoeghoeghogehogehogehogehogehoge",
+            "createdAt":"2024/02/02"
+        },
+        {
+            "id":"パーチー",
+            "title":"パーチー",
+            "content":"パーチーパーチーパーチーパーチーパーチーパーチーパーチーパーチーパーチー",
+            "createdAt":"2010"
+        }
+    ]
+}
